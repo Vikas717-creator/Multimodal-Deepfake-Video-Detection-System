@@ -3,7 +3,7 @@
 A deep learning-based system for detecting **deepfake videos** using a **multimodal approach**. Combines **frame-based analysis** (ResNet50), **temporal dynamics** (optical flow + 3D-CNN), and **late fusion** to enhance detection accuracy and robustness.
 
 ---
-Selecting best 50 real and 50 fake videos on 2-3 parameters due to limited compuation resources.
+Selecting best 50 real and 50 fake videos on 2-3 parameters due to limited computation resources.
 
 ## 🌟 Features
 
