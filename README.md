@@ -32,44 +32,26 @@ Selecting best 50 real and 50 fake videos on 2-3 parameters due to limited compu
 1. Clone the repository:
 git clone https://github.com/Vikas717-creator/multimodal-deepfake-detection.git cd multimodal-deepfake-detection
 
-markdown
-Copy
-Edit
 
 2. Install dependencies:
 pip install -r requirements.txt
 
-csharp
-Copy
-Edit
 
 3. Extract frames from videos:
 python utils/extract_frames.py
 
-css
-Copy
-Edit
 
 4. Compute optical flow:
 python utils/compute_optical_flow.py
 
-markdown
-Copy
-Edit
 
 5. Train individual models:
 python resnet50_frame_model.py python optical_flow_model.py
 
-sql
-Copy
-Edit
 
 6. Apply late fusion for final classification:
 python late_fusion.py
 
-yaml
-Copy
-Edit
 
 ---
 
