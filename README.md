@@ -87,12 +87,14 @@ python late_fusion.py
 - 📥 Automate video preprocessing and fusion  
 - 🌐 Build Streamlit demo to upload and test deepfakes  
 - 📊 Visual dashboard for prediction confidence and heatmaps
+- Looking forward for the research publication
 
 ---
 
 ## 🤝 Contributing
 
 Contributions and ideas are welcome! Fork the repo and submit a pull request.
+Together we can build a full scalable website depolyed on the browser.
 
 
 ## 🔗 Connect with Me
